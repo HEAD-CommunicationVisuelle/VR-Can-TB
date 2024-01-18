@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "VR_Can_TB.sln"
+    "dotnet.defaultSolution": "VR-Can-TB.sln"
 }
